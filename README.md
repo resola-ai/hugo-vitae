@@ -50,7 +50,12 @@ and clone the repository:
 
 ```sh
 cd themes
-git clone https://github.com/datacobra/hugo-vitae.git hugo-vitae
+git clone https://github.com/resola-ai/hugo-vitae.git hugo-vitae
+```
+Submodule way:
+
+```sh
+git submodule add https://github.com/resola-ai/hugo-vitae.git themes/hugo-vitae
 ```
 
 For more information about installation read the

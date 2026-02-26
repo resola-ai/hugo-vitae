@@ -1,3 +1,8 @@
+> [!WARNING] **Repository archived**
+> This repository was automatically archived on **2026-02-26 15:05:49** UTC.
+> To request reactivation, contact the team in **#infra** or **#engineering** on Slack.
+> **Note:** Repositories archived for more than one year are subject to complete removal without further notice.
+
 # Vitae
 ... is a blog theme for Hugo that **focuses on your content**.
 
